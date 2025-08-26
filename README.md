@@ -1,3 +1,5 @@
+![Welcome Banner](https://your-image-link.com/banner.png)
+
 # Hi, I'm Abdelmalek 👋
 
 🎓 IT Student | 💻 Aspiring Software Engineer | 🚀 Web Designer & Developer  
@@ -27,10 +29,6 @@ Right now, I’m focused on:
 - ⚙️ [SaaS Idea for Instagram](#) — Work in progress…  
 - 📊 [Project Name](#) — Something impressive that goes beyond CRUD  
 
----
-
-## 📈 GitHub Stats
-![Abdelmalek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
 
 ---
 
