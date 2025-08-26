@@ -1,4 +1,4 @@
-<img src="https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg" alt="Alt text" width="100%" height="200" />
+<img src="https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg" alt="Alt text" style="width:100%; height:200px; object-fit:cover;" />
 
 # Hi, I'm Abdelmalek 👋
 
