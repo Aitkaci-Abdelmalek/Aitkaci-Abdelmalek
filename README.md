@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Abdelmalek 👋
 
-<!--
-**Aitkaci-Abdelmalek/Aitkaci-Abdelmalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student | 💻 Aspiring Software Engineer | 🚀 Web Designer & Developer  
 
-Here are some ideas to get you started:
+I’m passionate about creating **modern, functional, and user-friendly** digital experiences.  
+Right now, I’m focused on:  
+- 🌐 Web design & full-stack development  
+- ⚡ Building SaaS projects (starting with Instagram-focused ideas)  
+- 🎥 Running a **faceless YouTube channel** to share web dev & design knowledge  
+- 📚 Always learning & pushing beyond basic CRUD apps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+- **Languages:** JavaScript, Python, PHP  
+- **Frontend:** React, TailwindCSS  
+- **Backend:** Node.js, Express  
+- **Databases:** MySQL, MongoDB  
+- **Other:** Git, Vite, APIs  
+
+---
+
+## 🌟 Featured Projects
+👉 *(Add links to your best repos here — portfolio site, SaaS tool, or standout project)*  
+
+- 🔗 [Portfolio Website](#) — A sleek showcase of my work and skills  
+- ⚙️ [SaaS Idea for Instagram](#) — Work in progress…  
+- 📊 [Project Name](#) — Something impressive that goes beyond CRUD  
+
+---
+
+## 📈 GitHub Stats
+![Abdelmalek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](#)  
+- 📷 [Instagram](#)  
+- 🎥 [YouTube](#)  
+
+✨ *Building today to level up tomorrow*  
