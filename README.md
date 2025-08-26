@@ -1,4 +1,4 @@
-![Welcome Banner](https://www.pexels.com/fr-fr/photo/code-html-270366/)
+![Welcome Banner](https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg)
 
 # Hi, I'm Abdelmalek 👋
 
