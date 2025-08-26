@@ -43,7 +43,7 @@ Right now, I’m focused on:
 👉 *(Add links to your best repos here — portfolio site, SaaS tool, or standout project)*  
 
 - 🔗 [Portfolio Website](#) — A sleek showcase of my work and skills  
-- 📷 [https://postcapai.vercel.app/](#) — Generate Instagram Captions with AI
+- 📷 [postcapai.app/](https://postcapai.vercel.app/) — Generate Instagram Captions with AI
 
 
 
