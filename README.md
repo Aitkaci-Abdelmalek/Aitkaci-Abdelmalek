@@ -1,4 +1,4 @@
-![Welcome Banner](https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg)
+<img src="https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg" alt="Alt text" width="600" height="200" />
 
 # Hi, I'm Abdelmalek 👋
 
