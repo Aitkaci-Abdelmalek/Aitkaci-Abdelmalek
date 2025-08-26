@@ -1,4 +1,4 @@
-![Welcome Banner](https://your-image-link.com/banner.png)
+![Welcome Banner](https://www.pexels.com/fr-fr/photo/code-html-270366/)
 
 # Hi, I'm Abdelmalek 👋
 
